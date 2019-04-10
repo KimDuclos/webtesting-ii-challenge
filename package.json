@@ -1,0 +1,26 @@
+{
+  "name": "webtesting-ii-challenge",
+  "version": "1.0.0",
+  "description": "Describes batting stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimDuclos/webtesting-ii-challenge.git"
+  },
+  "author": "Kim Duclos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KimDuclos/webtesting-ii-challenge/issues"
+  },
+  "homepage": "https://github.com/KimDuclos/webtesting-ii-challenge#readme",
+  "devDependencies": {
+    "react-testing-library": "^6.1.2"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
